@@ -31,11 +31,12 @@ const App = () => {
     console.log(expense)
   }
 
-  // return React.createElement('div', 
-  // {}, 
-  // React.createElement('h2', {}, "Let's get started"),
-  // React.createElement(Expenses, {items: expenses})
-  // )
+  // return React.createElement(
+  //   'div', 
+  //   {}, 
+  //   React.createElement('h2', {}, "Let's get started"),
+  //   React.createElement(Expenses, {items: expenses})
+  //   )
 
   return (
     <div>
